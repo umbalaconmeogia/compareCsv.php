@@ -1,0 +1,1 @@
+php compareCsv.php f3_1.csv f3_2.csv

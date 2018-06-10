@@ -1,0 +1,1 @@
+php compareCsv.php --csv1=invite_customer.csv --csv2=invite_customer_pro.csv --keyColumn=email --compareColumn=user_id --separator="\t"
